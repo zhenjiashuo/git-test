@@ -3,11 +3,7 @@ package com.git.test;
 public class subject {
 	
 	public void method() {
-<<<<<<< HEAD
-		String test = "2222";
-=======
-		String test = "sdfsdf";
->>>>>>> refs/remotes/origin/master
+		String test = "11111";
 		int testInt = 33-1;
 	}
 
