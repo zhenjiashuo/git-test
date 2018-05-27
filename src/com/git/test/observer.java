@@ -6,6 +6,7 @@ import java.util.List;
 public class observer {
 
 	static List<String> observerList = new ArrayList<String>();
+	String test = "222";
 
 	private String getObserver(int index) {
 
