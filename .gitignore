@@ -1,5 +1,9 @@
 /bin/
+<<<<<<< HEAD
 # test the ffdfsile class file
+=======
+# test the fiee class file
+>>>>>>> refs/remotes/origin/master
 *.class
 
 # Log file
