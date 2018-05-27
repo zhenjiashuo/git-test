@@ -3,8 +3,8 @@ package com.git.test;
 public class subject {
 	
 	public void method() {
-		String test = "232";
-		int testInt = 33-1;
+		String test = "asdfasd";
+		int testInt = 1111-1;
 	}
 
 }
